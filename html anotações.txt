@@ -22,3 +22,10 @@ lorem*4 - 4 paragrafos
 
 
 spam - agrupador em iline
+
+
+tag loading=lazy - a imagem so carrega quando o usuario chegar perto dela
+
+tag loading=easer - 
+
+
