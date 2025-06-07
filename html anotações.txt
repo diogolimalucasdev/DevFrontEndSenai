@@ -29,3 +29,27 @@ tag loading=lazy - a imagem so carrega quando o usuario chegar perto dela
 tag loading=easer - 
 
 
+h1{texto} - cria a tag com o texto dentro ja 
+
+
+
+consigo criar dessa maneira
+
+
+header>h1{texto}
+
+
+
+
+
+
+
+
+atributos globais existe em qualquer tag
+
+
+
+
+title - legenda para links 
+
+

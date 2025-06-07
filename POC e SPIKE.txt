@@ -1,0 +1,10 @@
+POC é prova de conceito
+
+
+spike - spike é a apresentação da prova de conceito
+
+
+
+
+o que seria isso, o poc é ideias para um projeto. Exemplo temos uma ide de e comerce, e precisa determina uma tecnologia para criar o projeto,
+o poc seria a prova de conceito para decidir isso. e o spike a apresentação do pq sua tecnologia é melhor pra aquela tecnologa

@@ -1,0 +1,28 @@
+table - main
+
+thead -header
+
+tr - linha do theader
+
+th - coluna do theader
+
+
+
+tbody - body
+
+tr- linha
+
+
+td - coluna
+
+
+
+criando uma coluna onde eu mesclei igual planilha do excel no detalhes, minha coluna pegou duas cedulas
+
+
+<thead>
+            <th>Produto</th>
+            <th colspan="2">Detalhes</th>
+
+
+        </thead>
