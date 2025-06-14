@@ -53,3 +53,6 @@ atributos globais existe em qualquer tag
 title - legenda para links 
 
 
+
+h1{text $}*5 - multiplicar de 1 a 5 e cria 5 h1
+

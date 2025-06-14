@@ -1,0 +1,13 @@
+h1{
+    color: red;
+
+}
+
+body h1:first-child{
+    color: black;
+}
+
+
+body h1:last-child{
+    color:rgba(7, 207, 207, 0.532)
+}

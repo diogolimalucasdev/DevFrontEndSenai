@@ -1,0 +1,59 @@
+body{
+    background-color: #BA1B1D;
+}
+
+h1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+    text-align: center;
+    color: #F7F4F3;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+
+img{
+    width: 200px;
+}
+
+
+
+
+a{
+    display: flex;
+    justify-content: center;
+}
+
+
+a > img {
+    width: 100px;
+    border: 2px solid #564D4A;
+    background-color: rgba(0, 0, 0, 0.114);
+   
+
+}
+
+header > .nav-bar {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 5px;
+    background-color:#BA1B1D ;
+
+}
+
+
+header > .nav-bar > li {
+    background-color: #534a56;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+
+    
+}

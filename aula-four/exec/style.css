@@ -1,0 +1,65 @@
+/* body{
+    background-color: blue;
+} */
+
+main {
+    text-align: center;
+}
+
+
+.paragrafo-1{
+   background-color: beige;
+   border: 2px solid black;
+   height: 200px;
+}
+
+.titulo-principal{
+    color: black;
+}
+
+.paragrafo-2{
+    background-color: green;
+    border-radius: 100px;
+}
+
+.paragrafo-2 > .titulo-secundario{
+    color: brown;
+}
+
+
+.paragrafo-3{
+    background-color: bisque;
+}
+
+
+.paragrafo-4{
+    background-color: blueviolet;
+    text-decoration: dashed;
+}
+
+
+.paragrafo-5{
+    background-color: brown;
+    width: 50%;
+}
+
+
+.text-1{
+    background-color: aquamarine;
+}
+
+.text-2{
+    background-color: chartreuse;
+}
+
+.text-3{
+    background-color: blueviolet;
+}
+
+.text-4{
+    background-color: bisque;
+}
+
+.text-5{
+    background-color: blanchedalmond;
+}
