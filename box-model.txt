@@ -1,0 +1,101 @@
+content
+
+conteúdo da tela
+
+
+
+padding 
+
+espaçamento interno do elemento, entre ele e a borda
+
+
+border
+
+elemento em volta do padding
+
+tem bordar solid ou dashed
+
+
+margin
+
+distancia de um elemento pros demais elementos html
+
+
+box-sizing: border-box;
+
+com esse elemento, ele mantem a largura e altura mesmo tendo o padding 
+
+
+
+
+
+display block
+
+o elemento o ocupa a linha inteira
+
+
+
+
+
+display inline
+
+o elemento so ocupa o tamanho dele, se for 200px é so 200px, não ocupa a linha toda
+não aceita margin
+pra coisas mais simples 
+
+
+
+display inline-block
+
+esse permite usar o width, height 
+
+
+
+
+
+
+
+Flexbox
+
+ajuda nos a alinhar os elementos 
+
+main axix - eixo principal - esquerda pra direita - horizontal - justify-content 
+
+cross axix - eixe vertical - de cima ora baixo - vertical - align-itens
+
+
+
+
+
+  /* justify-content: flex-start; */ - a esquerda
+    /* justify-content: center; */ - centralizado
+    /* justify-content: flex-end; */ - a direita
+    justify-content: space-between; - separado, um a esquerda, outro centralizado e outro a direita
+
+    justify-content: space-around; - distancia entre os elementos é o mesmo 
+
+    justify-content: space-evenly; - espaçamento igual dentro fora dos elementos tanto fora
+
+
+
+
+
+flex-direction: column-reverse;
+flex-wrap: wrap-reverse;
+justify-content: center;
+
+
+
+justify-content - responde ao flex direction
+
+align-items - é o inverso do justify-content
+
+
+
+align-self - alinha vc mesmo
+
+
+
+
+
+

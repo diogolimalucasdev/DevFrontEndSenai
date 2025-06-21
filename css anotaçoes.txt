@@ -57,5 +57,19 @@ border-radius: 160px; - se quiser uma bordar 100%, coloca o tamanho e altura da 
 
 Sempre usar números PARES para o CSS
 
-
+.
 background-contain = imagem dentro do card
+
+
+
+
+
+
+
+fazendo irmãos pra criar a tag
+
+header>img+nav>a{link}*6^.auth-button
+
+
+o ^ volta pra casa dos irmaos
+
